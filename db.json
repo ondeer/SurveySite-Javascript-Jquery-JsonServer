@@ -1,0 +1,115 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Önder ",
+      "surname": "AÇIKGÖZ",
+      "gender": "Male",
+      "userAnswer1": "Windows",
+      "userAnswer2": "Visual Studio Code",
+      "userAnswer3": "React",
+      "userAnswer4": "MsSQL",
+      "date": "4.11.2021"
+    },
+    {
+      "name": "Selin",
+      "surname": "DOĞRU",
+      "gender": "Female",
+      "userAnswer1": "MacOS",
+      "userAnswer2": "Brackets",
+      "userAnswer3": "Vue",
+      "userAnswer4": "MsSQL",
+      "date": "4.11.2021",
+      "id": 2
+    },
+    {
+      "name": "Şevval",
+      "surname": "TÜRK",
+      "gender": "Female",
+      "userAnswer1": "Windows",
+      "userAnswer2": "Visual Studio Code",
+      "userAnswer3": "Vue",
+      "userAnswer4": "MsSQL",
+      "date": "4.11.2021",
+      "id": 3
+    },
+    {
+      "name": "Fatih ",
+      "surname": "SEVIM",
+      "gender": "Male",
+      "userAnswer1": "Linux",
+      "userAnswer2": "WebStorm",
+      "userAnswer3": "Angular",
+      "userAnswer4": "Diğer",
+      "date": "4.11.2021",
+      "id": 4
+    },
+    {
+      "name": "Emre",
+      "surname": "YILMAZ",
+      "gender": "Male",
+      "userAnswer1": "Diğer",
+      "userAnswer2": "Sublime Text",
+      "userAnswer3": "Diğer",
+      "userAnswer4": "MySQL",
+      "date": "4.11.2021",
+      "id": 5
+    },
+    {
+      "name": "Berke",
+      "surname": "HÜRCAN",
+      "gender": "Male",
+      "userAnswer1": "MacOS",
+      "userAnswer2": "Sublime Text",
+      "userAnswer3": "Vue",
+      "userAnswer4": "MsSQL",
+      "date": "4.11.2021",
+      "id": 6
+    },
+    {
+      "name": "Aslı",
+      "surname": "GÜNGÖR",
+      "gender": "Female",
+      "userAnswer1": "Diğer",
+      "userAnswer2": "Diğer",
+      "userAnswer3": "Diğer",
+      "userAnswer4": "Oracle",
+      "date": "4.11.2021",
+      "id": 7
+    }
+  ],
+  "qa": [
+    {
+      "id": 1,
+      "questions": "What Operating System Are You Using?",
+      "answer1": "Windows",
+      "answer2": "MacOS",
+      "answer3": "Linux",
+      "answer4": "Diğer"
+    },
+    {
+      "id": 2,
+      "questions": "Which Code Editor Are You Using?",
+      "answer1": "Visual Studio Code",
+      "answer2": "Sublime Text",
+      "answer3": "WebStorm",
+      "answer4": "Diğer"
+    },
+    {
+      "id": 3,
+      "questions": "Which Javascript Framework Are You Using?",
+      "answer1": "React",
+      "answer2": "Vue",
+      "answer3": "Angular",
+      "answer4": "Diğer"
+    },
+    {
+      "id": 4,
+      "questions": "Which Database System Are You Using?",
+      "answer1": "Oracle",
+      "answer2": "MySQL",
+      "answer3": "MsSQL",
+      "answer4": "Diğer"
+    }
+  ]
+}
